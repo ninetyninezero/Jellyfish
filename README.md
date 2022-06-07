@@ -1,8 +1,8 @@
-<h1 align="center"> WhiteSur GTK Theme </h1>
-<p align="center"> <img src="https://github.com/vinceliuice/WhiteSur-gtk-theme/blob/pictures/pictures/macbook.png"/> </p>
+<h1 align="center"> Jellyfish GTK Theme </h1>
+<p align="center"> <img src="https://github.com/ninetyninezero/Jellyfish/blob/master/release/desktop.png"/> </p>
 
 <br>
-<p align="center"> <b> A macOS BigSur-like theme for your GTK apps </b> </p>
+<p align="center"> <b>My personal fork of the white sur gtk theme </b> </p>
 <br>
 
 # Installation is easy!
